@@ -1,0 +1,7 @@
+[caps]
+platformName = "iOS"
+platformVersion = "11.2"
+deviceName = "iPhone 8 Simulator"
+app = "sauce-storage:app.zip"
+appiumVersion = '1.7.2'
+deviceOrientation = 'portrait'

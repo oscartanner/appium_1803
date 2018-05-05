@@ -1,0 +1,7 @@
+[caps]
+platformName = "iOS"
+platformVersion = "11.3"
+deviceName = "iPhone 8 Plus"
+app = "/Users/oscar/treinamento_appium/ios/ninja essence.app"
+udid = "347AE56E-0C00-40AE-89B2-B08CFDE4BA8E"
+bundleId = "com.qaninja.ninja-essence"

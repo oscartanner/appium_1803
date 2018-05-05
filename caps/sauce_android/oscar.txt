@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+deviceName = "Samsung Galaxy S7 GoogleAPI Emulator"
+app = 'sauce-storage:app-debug.apk'
+appPackage = "com.inducesmile.androidecommerceshop"
+autoGrantPermissions = true
+appiumVersion = '1.7.2'
+deviceOrientation = 'portrait'
+platformVersion = '7.1'

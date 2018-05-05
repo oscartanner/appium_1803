@@ -1,0 +1,14 @@
+# config/cucumber.yml
+##YAML Template
+
+android: PLATFORM=android --exclude features/ios
+
+ios: PLATFORM=ios --exclude features/android
+
+oscar: QA=oscar
+
+beltrano: QA=beltrano
+
+sauce_android: PLATFORM=sauce_android --exclude features/ios
+
+sauce_ios: PLATFORM=sauce_ios --exclude features/android
